@@ -31,25 +31,15 @@ AWS Account
 
 ## Screenshots
 
-### IAM Identity Center Enabled
+![Identity Center Enabled](identity-center-enabled.png)
 
-![Identity Center Enabled](screenshots/identity-center-enabled.png)
+![Demo User Created](demo-user-created.png)
 
-### User Created
+![Group Created](group-created.png)
 
-![User Created](screenshots/user-created.png)
+![Permission Set Created](permission-set-created.png)
 
-### Group Created
-
-![Group Created](screenshots/group-created.png)
-
-### Permission Set Created
-
-![Permission Set](screenshots/permission-set-created.png)
-
-### Account Assignment Created
-
-![Account Assignment](screenshots/account-assignment-created.png)
+![Account Assignment Created](account-assignment-created.png)
 
 ## Lessons Learned
 
