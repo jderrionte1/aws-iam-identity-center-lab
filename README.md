@@ -31,13 +31,23 @@ AWS Account
 
 ## Screenshots
 
+### IAM Identity Center Enabled
+
 ![Identity Center Enabled](identity-center-enabled.png)
+
+### User Created
 
 ![Demo User Created](demo-user-created.png)
 
+### Group Created
+
 ![Group Created](group-created.png)
 
+### Permission Set Created
+
 ![Permission Set Created](permission-set-created.png)
+
+### Account Assignment Created
 
 ![Account Assignment Created](account-assignment-created.png)
 
